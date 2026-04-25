@@ -6,6 +6,7 @@
 
 ```bash
 git checkout -b feature/tu-caracteristica
+
 ```
 
 Ejemplo:
@@ -37,6 +38,7 @@ git merge feature/tu-caracteristica
 ## Visualizar ramas
 
 ```bash
+
 # Ramas locales
 git branch
 
@@ -45,6 +47,7 @@ git branch -a
 
 # Historial visual
 git log --oneline --graph --all
+
 ```
 
 ## Sincronizar con remoto
@@ -58,11 +61,13 @@ git pull origin develop
 
 # Enviar cambios
 git push origin main
+
 ```
 
 ## Deshacer cambios (cuidado)
 
 ```bash
+
 # Deshacer commit, mantener cambios
 git reset --soft HEAD~1
 
@@ -71,4 +76,4 @@ git reset --hard HEAD~1
 
 # Descartar cambios de un archivo
 git checkout -- archivo.txt
-```
+

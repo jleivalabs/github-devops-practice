@@ -4,6 +4,7 @@ Repositorio de práctica para dominar GitHub, CI/CD, y DevOps.
 
 ## 📁 Estructura del Proyecto
 
+
 ```
 
 github-devops-practice/
@@ -52,4 +53,3 @@ Usa estos prefijos en tus commits:
 ## 📜 Licencia
 
 MIT - Libre para usar y modificar
-

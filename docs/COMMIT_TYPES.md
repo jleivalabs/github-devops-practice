@@ -32,4 +32,7 @@ git commit -m "falta una coma"
 git commit -m "fix: resolver error en validación"
 git commit -m "docs: mejorar instrucciones de setup"
 git commit -m "style: agregar point and comma"
+<<<<<<< HEAD
 ```
+=======
+>>>>>>> 0562d7c (chore: estructura inicial del proyecto)
